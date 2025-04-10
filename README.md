@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitul1719
+- 👋 Hi, I’m Shubhankar Mitra
 - 👀 I’m interested in Coding and Philosophy
 - 🌱 I’m a MERN Stack develop
 - Currently working at Hoichoi Technologies
